@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Vinícius Santos - Full Stack Developer",
   description: "Portfólio de Vinícius Santos, desenvolvedor full-stack e estudante de Ciência da Computação",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
